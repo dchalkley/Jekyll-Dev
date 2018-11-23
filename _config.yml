@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Market Research 
 description: To collect market research documentation
-github: is_project_page: false
+github: 
+  is_project_page: false
